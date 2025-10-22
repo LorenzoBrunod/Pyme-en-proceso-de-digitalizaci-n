@@ -1,0 +1,93 @@
+# Informe de Ventas — README
+
+Situación: la empresa está en proceso de digitalización.
+- 2022–2023: datos incompletos por migración parcial.
+- 2024: primer año confiable para análisis.
+- 2025: en curso y con meses parciales (por ejemplo, agosto).
+
+Los hallazgos se interpretan considerando estas limitaciones.
+
+---
+
+## 1) Hallazgos clave
+
+- Pico de ventas en enero y descenso en los meses siguientes.
+- Agosto presenta una caída abrupta por carga parcial del mes; no debe interpretarse como tendencia.
+- Meta anual del velocímetro alrededor de 316,15 millones dentro de la banda 200–400 millones.
+  - 2022–2023 por debajo de la base por faltante de datos.
+  - 2025 aún no completo; comparar YTD 2025 contra YTD 2024.
+- Rentabilidad: margen mensual entre 14,5% y 23,2%, con promedio cercano a 20%.
+- Cobranza: saldos de clientes aprox. $7.701.810, afectando liquidez.
+- Fuerza de ventas con desempeño general “Regular”; posible relación con la caída post-enero.
+- Geografía: mayor densidad de clientes en Quilpué y alrededores; oportunidad de replicar palancas.
+
+---
+
+## 2) Qué significan los números del tablero
+
+- Ventas totales, ingresos y utilidad: pueden diferir por impuestos, notas de crédito y descuentos.
+- Serie mensual: pico en enero; agosto es parcial y no concluyente.
+- Variación mensual (MoM): muestra aceleraciones y frenos; tratar agosto como dato parcial.
+- % de utilidad por mes: estabilidad alrededor de 20% con dispersión 14,5–23,2%.
+- Saldos pendientes por cliente: priorizar cobranza y política de crédito.
+- Rendimiento trimestral de vendedores: ventas y bonos; falta medir actividad (visitas, cotizaciones, conversión).
+
+---
+
+## 3) Complementos analíticos
+
+1) Ajuste por mes parcial con run-rate: ventas acumuladas / días cargados * días del mes.  
+2) Comparación interanual YTD: 2025 YTD vs 2024 YTD en ventas, ingresos y margen.  
+3) Estacionalidad: validar si el pico de enero es patrón recurrente.  
+4) Mix y descuentos: descomponer con waterfall de rentabilidad.  
+5) Cobranza: medir DSO y % de cartera > 90 días; definir umbrales y alertas.  
+6) Análisis 80/20: identificar clientes y comunas top para replicar prácticas.  
+7) Eficiencia comercial: añadir tasa de conversión, ticket promedio y actividad por vendedor.  
+8) Calidad de datos: control de meses parciales, validaciones de precio e impuestos y conciliación Ventas–Ingresos.
+
+---
+
+## 4) Recomendaciones accionables
+
+Comercial
+- Retención y upsell en zonas líderes como Quilpué y alrededores.
+- Campañas estacionales alrededor de enero si el patrón se confirma.
+- Incentivos variables ligados a conversión, ticket y cobranza.
+
+Finanzas y cobranza
+- Política de crédito y control de fiados con límites y recordatorios.
+- Monitoreo de DSO, % cartera > 90 días y tasa de recuperación.
+
+Operación y datos
+- Calendario de cierre y cargas completas mensuales para evitar decisiones con meses parciales.
+- Validaciones automáticas de precio, impuestos y notas de crédito y conciliación sistemática.
+
+---
+
+## 5) Alcance y limitaciones de datos
+
+- 2022–2023: datos incompletos, uso referencial.
+- 2024: año de referencia con migración completa.
+- 2025: carga en curso; meses como agosto pueden estar parciales.
+- Conclusiones y proyecciones se reportan indicando estas limitaciones.
+
+---
+
+## 6) Próximos pasos
+
+1) Normalizar procesos ETL y fechas de corte con checklist de carga mensual.  
+2) Completar 2025 y recalcular YoY, run-rate y estacionalidad.  
+3) Incorporar indicadores de cobranza y eficiencia comercial en el tablero.  
+4) Profundizar en mix y descuentos con waterfall de rentabilidad.  
+5) Aplicar estrategia 80/20 para fidelizar clientes y comunas de mayor aporte y replicar su playbook.
+
+---
+
+## 7) Resumen ejecutivo
+
+- 2024 es el primer año sólido para análisis; 2025 está parcial.
+- Enero concentra una porción relevante del ingreso, posible estacionalidad.
+- La liquidez está tensionada por saldos de clientes cercanos a $7,7 millones; se debe priorizar la cobranza.
+- Margen estable en torno a 20% con valles asociados a mezcla de productos y descuentos.
+- Desempeño comercial regular; se recomienda activar incentivos y seguimiento de actividad.
+- Quilpué tracciona; conviene replicar sus palancas en comunas comparables.
