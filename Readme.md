@@ -100,3 +100,8 @@ Operación y datos
 - Margen estable en torno a 20% con valles asociados a mezcla de productos y descuentos.
 - Desempeño comercial regular; se recomienda activar incentivos y seguimiento de actividad.
 - Quilpué tracciona; conviene replicar sus palancas en comunas comparables.
+
+## 8) Estructura repositorio
+
+/README.md -> Este documento
+/Muni.pbix -> Archivo Power BI con los dashboards y KPIs
