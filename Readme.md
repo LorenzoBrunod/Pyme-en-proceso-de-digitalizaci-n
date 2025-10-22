@@ -103,5 +103,5 @@ Operación y datos
 
 ## 8) Estructura repositorio
 
-/README.md -> Este documento
-/Muni.pbix -> Archivo Power BI con los dashboards y KPIs
+/README.md 
+/Muni.pbix(Archivo Power BI con los dashboards y KPIs)
