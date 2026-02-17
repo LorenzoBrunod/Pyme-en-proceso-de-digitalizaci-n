@@ -5,7 +5,7 @@
 Este repositorio documenta el análisis comercial realizado con Power BI.  
 Todo el análisis, KPIs y hallazgos descritos aquí provienen del archivo de Power BI incluido en el repositorio:
 
-- Archivo PBIX: `Muni.pbix` (subido como documento).  
+- Archivo PBIX: `Portafolio_final.pbix` (subido como documento).  
 - Para revisar o reproducir los resultados, descarga el PBIX y ábrelo en Power BI Desktop.  
 - Los gráficos, dashboards y medidas usadas están dentro de ese archivo.
 
