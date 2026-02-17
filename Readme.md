@@ -103,5 +103,8 @@ Operación y datos
 
 ## 8) Estructura repositorio
 
+```text
+.
 ├── README.md
 └── Portafolio_final.pbix  (Archivo Power BI con los dashboards y KPIs)
+
