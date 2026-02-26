@@ -25,7 +25,6 @@ Los hallazgos se interpretan considerando estas limitaciones.
 - Meta anual del velocímetro alrededor de 316,15 millones dentro de la banda 200–400 millones.
   - 2022–2023 por debajo de la base por faltante de datos.
   - 2025 aún no completo; comparar YTD 2025 contra YTD 2024.
-- Rentabilidad: margen mensual entre 14,5% y 23,2%, con promedio cercano a 20%.
 - Cobranza: saldos de clientes aprox. $7.701.810, afectando liquidez.
 - Fuerza de ventas con desempeño general “Regular”; posible relación con la caída post-enero.
 - Geografía: mayor densidad de clientes en Quilpué y alrededores; oportunidad de replicar palancas.
@@ -37,7 +36,6 @@ Los hallazgos se interpretan considerando estas limitaciones.
 - Ventas totales, ingresos y utilidad: pueden diferir por impuestos, notas de crédito y descuentos.
 - Serie mensual: pico en enero; agosto es parcial y no concluyente.
 - Variación mensual (MoM): muestra aceleraciones y frenos; tratar agosto como dato parcial.
-- % de utilidad por mes: estabilidad alrededor de 20% con dispersión 14,5–23,2%.
 - Saldos pendientes por cliente: priorizar cobranza y política de crédito.
 - Rendimiento trimestral de vendedores: ventas y bonos; falta medir actividad (visitas, cotizaciones, conversión).
 
